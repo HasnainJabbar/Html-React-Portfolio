@@ -2,7 +2,7 @@ import React from 'react'
 import Routing from './router/Routing'
 import './App.css'
 import Navbar from './components/navbar/Navbar'
-import Sidebar from './components/sidebar/Sidebar'
+import Sidebar from './components/Sidebar/Sidebar'
 
 const App = () => {
   return (
